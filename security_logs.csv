@@ -1,0 +1,7 @@
+timestamp,source_ip,event_type,user
+2026-02-02 09:00:00,192.168.1.1,login_success,admin
+2026-02-02 10:30:00,10.0.0.5,login_fail,guest
+2026-02-02 10:30:05,10.0.0.5,login_fail,guest
+2026-02-02 10:30:10,10.0.0.5,login_fail,guest
+2026-02-02 10:30:15,10.0.0.5,login_fail,guest
+2026-02-02 10:30:20,10.0.0.5,login_fail,guest
